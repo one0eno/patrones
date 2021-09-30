@@ -1,0 +1,15 @@
+C:\Users\Jorge\Source\Repos\DesignPatterns.Models\bin\Debug\net5.0\DesignPatterns.Models.deps.json
+C:\Users\Jorge\Source\Repos\DesignPatterns.Models\bin\Debug\net5.0\DesignPatterns.Models.runtimeconfig.json
+C:\Users\Jorge\Source\Repos\DesignPatterns.Models\bin\Debug\net5.0\DesignPatterns.Models.runtimeconfig.dev.json
+C:\Users\Jorge\Source\Repos\DesignPatterns.Models\bin\Debug\net5.0\DesignPatterns.Models.dll
+C:\Users\Jorge\Source\Repos\DesignPatterns.Models\bin\Debug\net5.0\ref\DesignPatterns.Models.dll
+C:\Users\Jorge\Source\Repos\DesignPatterns.Models\bin\Debug\net5.0\DesignPatterns.Models.pdb
+C:\Users\Jorge\Source\Repos\DesignPatterns.Models\obj\Debug\net5.0\DesignPatterns.Models.csproj.AssemblyReference.cache
+C:\Users\Jorge\Source\Repos\DesignPatterns.Models\obj\Debug\net5.0\DesignPatterns.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorge\Source\Repos\DesignPatterns.Models\obj\Debug\net5.0\DesignPatterns.Models.AssemblyInfoInputs.cache
+C:\Users\Jorge\Source\Repos\DesignPatterns.Models\obj\Debug\net5.0\DesignPatterns.Models.AssemblyInfo.cs
+C:\Users\Jorge\Source\Repos\DesignPatterns.Models\obj\Debug\net5.0\DesignPatterns.Models.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\Source\Repos\DesignPatterns.Models\obj\Debug\net5.0\DesignPatterns.Models.dll
+C:\Users\Jorge\Source\Repos\DesignPatterns.Models\obj\Debug\net5.0\ref\DesignPatterns.Models.dll
+C:\Users\Jorge\Source\Repos\DesignPatterns.Models\obj\Debug\net5.0\DesignPatterns.Models.pdb
+C:\Users\Jorge\Source\Repos\DesignPatterns.Models\obj\Debug\net5.0\DesignPatterns.Models.genruntimeconfig.cache
